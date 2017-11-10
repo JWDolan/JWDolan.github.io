@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: Jay's Blog
 header-img: img/home-bg.png
 email: jwdolan820@gmail.com
 copyright_name: JWDolan
 description: > # this means to ignore newlines until "baseurl:"
-  
+  "When you come to a fork in the road, take it."
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  JWDolan
